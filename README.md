@@ -1,4 +1,6 @@
-# Challenges for GRCon24 (GNU Radio Conference 2024)
+# Challenges for GRCon24
+
+GNU Radio Conference 2024 in XXXXXXX(location) on XXXX-XX-XX
 
 ## Overview
 
@@ -15,8 +17,9 @@ All challenges should be released sequentially over the _first_ day at GRCon.
 ## Prior Work
 
 * Our 2022 challenge repository [can be found here](https://github.com/bebau/grcon22).
-* Our 2023 challenge repository [can be found here]()
+* Our 2023 challenge repository [can be found here](https://github.com/Teque5/grcon23)
 
-## Raw Idea
+## Raw Ideas
 
 * Encode a flag using fruit alphabet instead of NATO alphabet
+
