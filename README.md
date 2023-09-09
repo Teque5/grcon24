@@ -21,5 +21,26 @@ All challenges should be released sequentially over the _first_ day at GRCon.
 
 ## Raw Ideas
 
+* Leah: CLayton's flowgraphs were well done, fun to have troll challenges.
+* Leah: Maybe add a slide puzzle.
+* Jason: Liked the L+R, L-R stuff, maybe use in something similar. Liked VLAD's NRSC-5 challenges and QR codes.
+* Jose: Liked the spread spectrum challenges, being able to recover the code. 
+* Cesar: More programming challenges, were none this year.
+* Jason: Add more low-value trivia challenges
+* Leah: Another image challenge where you need those red-blue glasses to decode.
+
+### kyle thoughts
+
+* Create a challenge where an analog filter has a missing part and you need to find the value to solve the challenge. 
+* Add an ML challenge again
 * Encode a flag using fruit alphabet instead of NATO alphabet
+* Re-use the voice scrambler but convert it to packetized mode
+* host a radio server consuming zmq packetized submissions and returning some result
+* radio fax? oak ridge has a decoder, does an encoder exist?
+* Distribute a 3d-printed antenna or component to solve a challenge
+* M17 alternate modes (voice, data, IP traffic)
+* embed a spread-spectrum flag underneath an obvious normal flag or two
+
+
+
 
