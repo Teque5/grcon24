@@ -31,6 +31,7 @@ All challenges should be released sequentially over the _first_ day at GRCon.
 
 ### kyle thoughts
 
+* Challenge that monitors ezpass transponders at multiple locations. Perhaps we get a real ezpass transponder and make multiple recordings to find a VIP or something. 
 * Create a challenge where an analog filter has a missing part and you need to find the value to solve the challenge. 
 * Add an ML challenge again
 * Encode a flag using fruit alphabet instead of NATO alphabet
