@@ -1,5 +1,9 @@
 # Trivia
 
+## Points
+
+We suggest +13 points for correct answers.
+
 ## Question 0
 
 Located in Greater Knoxville, this is known as the #1 theme park in the U.S.
