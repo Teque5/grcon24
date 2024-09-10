@@ -1,12 +1,11 @@
 Solution
 points
-flag{wood thrush bird}
-
 Topic: 
-Signals
+Spectrogram
+flag{fire pink}
 Explanation
-Generating the sound
+Generating the image
 Getting Started
-1. Use an audio player to look at the waveform and match it to the waveform in the correct animal image.
+1. Observe the spectrogram and match to the correct flower image.
 Dependencies
 Audacity

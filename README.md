@@ -4,7 +4,7 @@ Capture the Flag (CTF) challenges for GNU Radio Conference 2024 in Knoxville, Te
 
 ## Overview
 
-All of our challenges are independent, but there is flavortext that ties them all together. This year we assigned our puzzles points in the range of (23, 199) based on difficulty.
+All of our challenges are independent, but there is flavortext that ties them all together. This year we assigned our puzzles points in the range of (13, 199) based on difficulty.
 
 ## Layout
 
@@ -12,7 +12,7 @@ Each challenge has a `public/` folder that holds files facing the challenger, an
 
 ## Order of Challenges
 
-All challenges can be released the _first_ day at GRCon.
+All challenges can be released the _first_ day at GRCon and unlock _sequentially_.
 
 ## Prior Work
 

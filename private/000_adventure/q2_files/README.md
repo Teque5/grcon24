@@ -1,11 +1,8 @@
 Solution
 points
 Topic: 
-Spectrogram
-flag{fire pink}
+flag{rocky top}
 Explanation
-Generating the image
+Generating the sound
 Getting Started
-1. Observe the spectrogram and match to the correct flower image.
 Dependencies
-Audacity
