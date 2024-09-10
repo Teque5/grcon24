@@ -1,0 +1,71 @@
+# Appalacia
+
+You're on a warm summer hike along the Appalachian trail. SO many sights and sounds! But what is it that you hear and see? 
+
+## Points
+
+
+
+## Question 1
+
+What does the animal say? Identify the animal that made this sound from the options below:
+
+A. wood thrush bird
+B. ovenbird
+C. robin
+D. fox
+
+### Solution
+
+flag{wood thrush bird}
+
+## Question 2
+
+For a moment, you stop and hear the flowers. But one flower in particular stands out to you. 
+
+From the options below, pick the flower image that produced this sound:
+A. sunflower
+B. rose
+C. cherry blossom
+D. fire pink
+E. coneflower
+
+### Solution
+
+flag{fire pink}
+
+## Question 3
+
+You've reached the peak of a mountain! Based on this audio clip, pick the mountain peak:
+
+A. roan mountain 
+B. rocky top
+C. sassafras
+D. Holston mountain
+
+### Solution
+
+flag{rocky top}
+
+## Question 4
+
+After having veered off-course for quite some time, you hear a waterfall very close by and check your location.
+Based on the waterfall plot of this waterfall, which waterfall is it?
+
+A. laurel falls
+B. spruce flats falls
+C. elk river falls
+D. the place of a thousand drips
+
+### Solution
+
+flag{spruce flats falls}
+
+## Question 5
+
+After a few hours, you're officially lost. Transmit this message and help will be on the way!
+
+### Solution
+
+flag{send boba}
+
