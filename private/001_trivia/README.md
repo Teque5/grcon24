@@ -78,7 +78,7 @@ Born in Knoxville in 1963, this well-known filmmaker created a number of action-
 
 ## Question 9
 
-This was the year Tennessee became the first state capital of Tennessee.
+This was the year Knoxville became the first state capital of Tennessee.
 
 ### Solution
 
