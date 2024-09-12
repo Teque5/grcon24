@@ -29,9 +29,8 @@ From the options below, pick the flower image that produced this sound:
 
 - A. sunflower
 - B. rose
-- C. cherry blossom
-- D. fire pink
-- E. coneflower
+- C. fire pink
+- D. coneflower
 
 note: If your answer is A, then submit `flag{A}`.
 
